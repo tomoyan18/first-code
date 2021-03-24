@@ -1,0 +1,111 @@
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    background-color:black;
+    height: 100px;
+    color:white;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.header-logo {
+    font-size: 50px;
+    padding: 25px 25px;
+    float: left;
+}
+
+.header-list {
+    font-size: 25px;
+    float: right;
+}
+
+.header-list li {
+    padding: 50px 50px;
+    float: left;
+
+}
+
+.main {
+    background-color:black;
+    color: white;
+    height: 1250px;
+    text-align: center;
+    padding: 50px 200px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.main h1 {
+    font-size: 60px;
+}
+
+.main h2 {
+    font-size: 50px;
+}
+
+.main h3 {
+    font-size: 20px;
+}
+
+.contents {
+    color:white;
+    font-size: 40px;
+}
+
+.contents-item {
+    padding: 5px 5px;
+
+}
+
+.contents-form {
+    padding-top: 3px;
+    text-align: center;
+
+}
+
+input {
+    width: 300px;
+}
+
+textarea {
+    width: 300px;
+    height: 150px;
+}
+
+.contact-submit {
+    background-color: #dee7ec;
+    color: black;
+  }
+
+.footer {
+    background-color:black;
+    height: 400px;
+    color: white;
+    font-size: 50px;
+    padding: 50px 50px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -15px;
+}
+
+.footer-logo {
+    font-size: 60px;
+}
+
+.footer-list {
+    float: right;
+}
+
+.footer-list li {
+    font-size: 40px;
+    padding-bottom: 25px;
+}
+
